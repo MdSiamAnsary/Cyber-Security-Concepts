@@ -1,7 +1,7 @@
 # Cyber Security Concepts 
 
 ### In [this GitHub Repository](https://github.com/MdSiamAnsary/Cyber-Security-Concepts) different materials related to Cyber Security have been accumulated. 
-Cyber Security is a matter of great importance. If anyone strongly believes that any material of the accumulated ones contains any false information/data, s/he is hughly encourgaed to contact with proper evidence and information. 
+Cyber Security is a matter of great importance. If anyone strongly believes that any material of the accumulated ones contains any false information/data, s/he is encourgaed to contact with proper evidence and information. 
 
 ### [Topic Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials) 
 - Basic Terminologies [PDF]
