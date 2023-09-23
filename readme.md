@@ -12,6 +12,8 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 - Aspects of Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Aspects%20of%20Security.pdf)]
 - Model for Network Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Model%20for%20Network%20Security.pdf)]
 - Cryptography [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cryptography.pdf)]
+- Symmetric Key Cryptography [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Symmetric%20Key%20Cryptography.pdf)]
+- Data Encryption Standard (DES) [[PDF]()]
 
 
 ### Books [LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)
