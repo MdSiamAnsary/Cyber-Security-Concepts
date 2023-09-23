@@ -5,6 +5,7 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 
 ### [Topic Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials) 
 - Basic Terminologies [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Terminologies.pdf)]
+- Importance of Information Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Importance%20of%20Information%20Security.pdf)]
 - Standards Organizations [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Standards%20Organizations%20.pdf)]
 - Key Security Concepts [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Key%20Security%20Concepts.pdf)]
 - Levels of Impact due to Security Breach [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Levels%20of%20Impact%20due%20to%20Security%20Breach.pdf)]
