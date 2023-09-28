@@ -15,15 +15,19 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 - Cryptography [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cryptography.pdf)]
 - Symmetric Key Cryptography [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Symmetric%20Key%20Cryptography.pdf)]
 - Data Encryption Standard (DES) [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/DES)]
-- RSA (Rivest–Shamir–Adleman) [[PDF]()]
+- RSA (Rivest–Shamir–Adleman)
+- Digital Signatures
+- Hash Functions 
 - Cybersecurity Control Types [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cyber%20Security%20Control%20Types.pdf)]
 - Risk Analysis [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Analysis.pdf)]
+- Risk remediation [[PDF]()]
 - Defense Models (Lollipop Model and Onion Model) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Defense%20Models.pdf)]
 - Firewalls [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Firewalls.pdf)]
 - Database Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Database%20Security.pdf)]
 - SQL Injection Attack [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/SQL%20Injection%20Attack.pdf)]
 - Buffer Overflow Attack [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Buffer%20Overflow%20Attack.pdf)]
 - Network Device Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Network%20Device%20Security.pdf)]
+- Securing Unstructured Data [[PDF]()]
 
 
 ### Books [LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)
