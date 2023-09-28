@@ -20,6 +20,7 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 - Risk Analysis [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Analysis.pdf)]
 - Defense Models (Lollipop Model and Onion Model) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Defense%20Models.pdf)]
 - Firewalls [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Firewalls.pdf)]
+- Database Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Database%20Security.pdf)]
 
 
 ### Books [LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)
