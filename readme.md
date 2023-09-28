@@ -14,7 +14,7 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 - Model for Network Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Model%20for%20Network%20Security.pdf)]
 - Cryptography [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cryptography.pdf)]
 - Symmetric Key Cryptography [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Symmetric%20Key%20Cryptography.pdf)]
-- Data Encryption Standard (DES) [[PDF]()]
+- Data Encryption Standard (DES) [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/DES)]
 - RSA (Rivest–Shamir–Adleman) [[PDF]()]
 - Cybersecurity Control Types [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cyber%20Security%20Control%20Types.pdf)]
 - Risk Analysis [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Analysis.pdf)]
