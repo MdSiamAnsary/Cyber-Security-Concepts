@@ -20,14 +20,15 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 - Hash Functions 
 - Cybersecurity Control Types [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cyber%20Security%20Control%20Types.pdf)]
 - Risk Analysis [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Analysis.pdf)]
-- Risk remediation [[PDF]()]
+- Risk Remediation
 - Defense Models [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Defense%20Models.pdf)]
 - Firewalls [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Firewalls.pdf)]
 - Database Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Database%20Security.pdf)]
 - SQL Injection Attack [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/SQL%20Injection%20Attack.pdf)]
 - Buffer Overflow Attack [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Buffer%20Overflow%20Attack.pdf)]
 - Network Device Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Network%20Device%20Security.pdf)]
-- Securing Unstructured Data [[PDF]()]
+- Securing Unstructured Data [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Securing%20Unstructured%20Data.pdf)]
+- Virtual Private Network (VPN)
 
 
 ### Books [LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)
