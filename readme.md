@@ -21,7 +21,7 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 - Cybersecurity Control Types [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cyber%20Security%20Control%20Types.pdf)]
 - Risk Analysis [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Analysis.pdf)]
 - Risk remediation [[PDF]()]
-- Defense Models (Lollipop Model and Onion Model) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Defense%20Models.pdf)]
+- Defense Models [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Defense%20Models.pdf)]
 - Firewalls [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Firewalls.pdf)]
 - Database Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Database%20Security.pdf)]
 - SQL Injection Attack [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/SQL%20Injection%20Attack.pdf)]
