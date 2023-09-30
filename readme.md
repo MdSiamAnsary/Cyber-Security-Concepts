@@ -28,7 +28,7 @@ Cyber Security is a matter of great importance. If anyone strongly believes that
 - Buffer Overflow Attack [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Buffer%20Overflow%20Attack.pdf)]
 - Network Device Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Network%20Device%20Security.pdf)]
 - Securing Unstructured Data [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Securing%20Unstructured%20Data.pdf)]
-- Virtual Private Network (VPN)
+- Virtual Private Network (VPN) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Virtual%20Private%20Network%20(VPN).pdf)]
 
 
 ### Books [LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)
