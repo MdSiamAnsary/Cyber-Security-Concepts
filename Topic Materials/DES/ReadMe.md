@@ -1,4 +1,8 @@
-### Example of DES Calculation 
+## Data Encryption Standard (DES) 
 
-The [PDF file](https://kathrynneugent.com/assets/pdf/DESwalkthrough.pdf) and the [Video](https://www.youtube.com/watch?v=Vcld7CMAnNs) have been collected  from the [website](https://kathrynneugent.com/compSci/) of Kathryn F. Neugent. 
+- Basics of DES (Encryption and Decryption) [[PDF]()]
+- Examples of DES [[Example 01](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/DES/Examples/Example%2001)] [[Example 02](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/DES/Examples/Example%2002)]
+- Avalanche Effect
+- Improvements of DES
+- Modes of DES
 
