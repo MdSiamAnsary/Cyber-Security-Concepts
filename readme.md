@@ -20,7 +20,7 @@ Some reports on Cyber Security related matters, regal and law documents have bee
 - Data Encryption Standard (DES) [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/DES)]
 - RSA (Rivest–Shamir–Adleman) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/RSA%20(Rivest%E2%80%93Shamir%E2%80%93Adleman).pdf)]
 - Digital Signature [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/Digital%20Signature)]
-- Hash Functions 
+- Cryptographic Hash Function [[Materials]()] 
 - Cybersecurity Control Types [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cyber%20Security%20Control%20Types.pdf)]
 - Risk Analysis [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Analysis.pdf)]
 - Risk Remediation [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Remediation.pdf)]
@@ -36,5 +36,7 @@ Some reports on Cyber Security related matters, regal and law documents have bee
 
 ### Books [[LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)]
 Some softcopies of books related to Cyber Security have been collected. 
+
+### _The contents of [Topic Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials) have been prepared with the help of different books, articles and resources on Internet. The accumulator does not have credit._
 
 
