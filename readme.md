@@ -37,6 +37,6 @@ Some reports on Cyber Security related matters, regal and law documents have bee
 ### Books [[LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)]
 Some softcopies of books related to Cyber Security have been collected. 
 
-### _The materials of [[Topic Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials)] have been prepared with the help of different books, articles and resources on Internet. The accumulator does not have credit._
+### _The materials of [Topic Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials) have been prepared with the help of different books, articles and resources on Internet. The accumulator does not have credit._
 
 
