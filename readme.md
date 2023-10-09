@@ -4,7 +4,7 @@
 _Cyber Security is a matter of great importance. If anyone strongly believes that any material of the accumulated ones contains any false information/data, s/he is encourgaed to contact with proper evidence and information._
 
 ### Case and Legal Reports/Documents [[LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Case%20and%20Legal%20Reports)]
-Some reports on Cyber Security related matters, regal and law documents have been gathered. 
+Some reports on Cyber Security related matters, legal and law documents have been gathered. 
 
 ### Topic Materials [[LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials)]
 - Importance of Information Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Importance%20of%20Information%20Security.pdf)]
