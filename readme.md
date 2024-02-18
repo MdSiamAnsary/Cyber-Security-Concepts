@@ -33,6 +33,13 @@ Some reports on Cyber Security related matters, legal and law documents have bee
 - Securing Unstructured Data [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Securing%20Unstructured%20Data.pdf)]
 - Virtual Private Network (VPN) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Virtual%20Private%20Network%20(VPN).pdf)]
 
+### Videos 
+- Symmetric Key Cryptography [[LINK](https://youtu.be/nbjorlCOrug?si=rRv6S-A-NLienW5y)]
+- RSA (Rivest-Shamir-Adleman) Algorithm [[LINK](https://youtu.be/yyEFWx1E8cA?si=0LAEK_enSNaCOHgq)]
+- Overview of Data Encryption Standard [[LINK](https://youtu.be/2G9txsMUQ4Q?si=H2YSQ0kwEQIm3mYz)]
+- Example of Data Encryption Standard [[LINK](https://youtu.be/BAS3u97rlWU?si=XQDPvaaDw_x3A4MJ)]
+- Avalanche Effect of DES [[LINK](https://youtu.be/Z9nknRKKZOQ?si=2KQoHlC_2Pg5gkRq)]
+- Database Security [[LINK](https://youtu.be/qx8IULinVjw?si=yaAHv8rxzn-pUe1r)]
 
 ### Books [[LINK](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Books)]
 Some softcopies of books related to Cyber Security have been collected. 
