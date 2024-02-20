@@ -34,6 +34,7 @@ Some reports on Cyber Security related matters, legal and law documents have bee
 - Virtual Private Network (VPN) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Virtual%20Private%20Network%20(VPN).pdf)]
 
 ### Videos 
+- Basic Terminologies [[LINK](https://youtu.be/b1Xebefj7x0)]
 - Symmetric Key Cryptography [[LINK](https://youtu.be/nbjorlCOrug?si=rRv6S-A-NLienW5y)]
 - RSA (Rivest-Shamir-Adleman) Algorithm [[LINK](https://youtu.be/yyEFWx1E8cA?si=0LAEK_enSNaCOHgq)]
 - Overview of Data Encryption Standard [[LINK](https://youtu.be/2G9txsMUQ4Q?si=H2YSQ0kwEQIm3mYz)]
