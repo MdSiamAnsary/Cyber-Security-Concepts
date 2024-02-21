@@ -51,8 +51,8 @@ Some reports on Cyber Security related matters, legal and law documents have bee
 -->
 
 
-|<div style="width:350px">Topic Materials</div>               |Videos                       |
-|-------------------------------------------------------------|-----------------------------|
+|Topic Materials               |Videos                       |
+|------------------------------|-----------------------------|
 |Importance of Information Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Importance%20of%20Information%20Security.pdf)]      ||
 |Basic Terminologies [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Terminologies.pdf)]      |Basic Terminologies [[LINK](https://youtu.be/b1Xebefj7x0)]|
 |Standards Organizations [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Standards%20Organizations%20.pdf)]      ||
@@ -65,7 +65,7 @@ Some reports on Cyber Security related matters, legal and law documents have bee
 |Symmetric Key Cryptography [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Symmetric%20Key%20Cryptography.pdf)]      |Symmetric Key Cryptography [[LINK](https://youtu.be/nbjorlCOrug)]|
 |Data Encryption Standard (DES) [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/DES)]      ||
 |RSA (Rivest–Shamir–Adleman) [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/RSA%20(Rivest%E2%80%93Shamir%E2%80%93Adleman).pdf)]      |RSA (Rivest-Shamir-Adleman) Algorithm [[LINK](https://youtu.be/yyEFWx1E8cA)]|
-|Digital Signature [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/Digital%20Signature)]      |Overview of Data Encryption Standard [[LINK](https://youtu.be/2G9txsMUQ4Q?si=H2YSQ0kwEQIm3mYz)], Example of Data Encryption Standard [[LINK](https://youtu.be/BAS3u97rlWU?si=XQDPvaaDw_x3A4MJ)], Avalanche Effect of DES [[LINK](https://youtu.be/Z9nknRKKZOQ?si=2KQoHlC_2Pg5gkRq)]|
+|Digital Signature [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/Digital%20Signature)]      |Overview of Data Encryption Standard [[LINK](https://youtu.be/2G9txsMUQ4Q?si=H2YSQ0kwEQIm3mYz)],<br /> Example of Data Encryption Standard [[LINK](https://youtu.be/BAS3u97rlWU?si=XQDPvaaDw_x3A4MJ)],<br /> Avalanche Effect of DES [[LINK](https://youtu.be/Z9nknRKKZOQ?si=2KQoHlC_2Pg5gkRq)]|
 |Cryptographic Hash Function [[Materials](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/tree/main/Topic%20Materials/Cryptographic%20Hash%20Function)]       ||
 |Cybersecurity Control Types [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Cyber%20Security%20Control%20Types.pdf)]      ||
 |Risk Analysis [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Risk%20Analysis.pdf)]      ||
