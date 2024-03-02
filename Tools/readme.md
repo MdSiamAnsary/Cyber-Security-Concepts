@@ -8,4 +8,4 @@ To improve their abilities and shield systems from possible attacks, cybersecuri
 
 ### Videos
 - Cracking the Password of a ZIP file with John the Ripper and Hashcat
-- Identifying accounts with username using Sherlock
+- Identifying accounts with username using Sherlock [[VIDEO](https://youtu.be/KXPOMR-bGAE)]
