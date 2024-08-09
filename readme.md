@@ -71,7 +71,7 @@ Some reports on Cyber Security related matters, legal and law documents have bee
 |Importance of Information Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Importance%20of%20Information%20Security.pdf)]      ||
 |Basic Terminologies [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Terminologies.pdf)]      |Basic Terminologies [[LINK](https://youtu.be/b1Xebefj7x0)]|
 |Standards Organizations [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Standards%20Organizations%20.pdf)]      ||
-|Key Security Concepts [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Key%20Security%20Concepts.pdf)]      ||
+|Key Security Concepts [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Key%20Security%20Concepts.pdf)] <br/> CIA Triad [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/CIA%20Triad.pdf)]      ||
 |Levels of Impact due to Security Breach [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Levels%20of%20Impact%20due%20to%20Security%20Breach.pdf)]      ||
 |Examples of Security Requirements [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Examples%20of%20Security%20Requirements%20.pdf)]      ||
 |Aspects of Security [[PDF](https://github.com/MdSiamAnsary/Cyber-Security-Concepts/blob/main/Topic%20Materials/Aspects%20of%20Security.pdf)]      ||
